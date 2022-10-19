@@ -177,4 +177,4 @@ async def drive_error(ctx,error) :
         else: raise error
 
 
-client.run('ODE2MDM0MTMyMDM5Njk2NDM0.YD1FAg.GXY4_lGE6BS_YzfcueP4f05kNYE')
+client.run('token')
